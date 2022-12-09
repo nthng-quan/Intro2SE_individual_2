@@ -1,1 +1,2 @@
-# Intro2SE_individual_2
+# Introduction to Software Engineering individual assignment 2 - Database
+`Role: Back end - NodeJS, ExpressJS`
