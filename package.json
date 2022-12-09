@@ -1,0 +1,23 @@
+{
+  "name": "intro2se_individual_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nthng-quan/Intro2SE_individual_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nthng-quan/Intro2SE_individual_2/issues"
+  },
+  "homepage": "https://github.com/nthng-quan/Intro2SE_individual_2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
